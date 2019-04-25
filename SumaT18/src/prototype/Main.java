@@ -11,6 +11,7 @@ public class Main {
 		klo2 = klo1.clone();
 		klo2.setNimi("Klooni");
 		klo2.kaynnistaKello();
+		klo2.vaihdaAikaa(15, 45, 20);
 
 	}
 

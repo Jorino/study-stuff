@@ -66,6 +66,12 @@ public class Kello implements Cloneable {
 		this.nimi = nimi;
 	}
 	
+	public void vaihdaAikaa(int tunnit, int minuutit, int sekuntit) {
+		this.tunnit.setArvo(tunnit);
+		this.minuutit.setArvo(minuutit);
+		this.sekuntit.setArvo(sekuntit);
+	}
+	
 	
 
 }
