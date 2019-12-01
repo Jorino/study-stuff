@@ -1,0 +1,7 @@
+##Kivi-Sakset-Paperi peli##
+Pelin toiminta:
+1. Aluksi luodaan kaksi pelaajaa jotka tulee nimetä.
+2. Luodaan peli ja lisätään siihen aiemmin luodut pelaajat.
+3. Käynnistetään peli.
+4. Peli jatkuu kierroksittain kunnes toinen pelaajista on kerännyt itselleen kolme voittoa.
+5. Pelaaja joka sai ensin kolme voittoa on voittaja.
